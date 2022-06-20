@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Phong Vu\Desktop\NguyenDucTuan-FlappyBird\FlappyBird\Game.h(13,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+C:\Users\Phong Vu\Desktop\NguyenDucTuan-FlappyBird\FlappyBird\main.cpp(39,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Phong Vu\Desktop\NguyenDucTuan-FlappyBird\FlappyBird\main.cpp(194,44): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phong Vu\Desktop\NguyenDucTuan-FlappyBird\FlappyBird\main.cpp(201,47): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phong Vu\Desktop\NguyenDucTuan-FlappyBird\FlappyBird\main.cpp(212,44): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phong Vu\Desktop\NguyenDucTuan-FlappyBird\FlappyBird\main.cpp(217,47): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phong Vu\Desktop\NguyenDucTuan-FlappyBird\FlappyBird\main.cpp(228,44): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phong Vu\Desktop\NguyenDucTuan-FlappyBird\FlappyBird\main.cpp(233,47): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phong Vu\Desktop\NguyenDucTuan-FlappyBird\FlappyBird\main.cpp(244,44): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phong Vu\Desktop\NguyenDucTuan-FlappyBird\FlappyBird\main.cpp(249,47): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phong Vu\Desktop\NguyenDucTuan-FlappyBird\FlappyBird\main.cpp(260,44): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Phong Vu\Desktop\NguyenDucTuan-FlappyBird\FlappyBird\main.cpp(265,47): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  FlappyBird.vcxproj -> C:\Users\Phong Vu\Desktop\NguyenDucTuan-FlappyBird\Debug\FlappyBird.exe
